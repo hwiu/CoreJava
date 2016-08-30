@@ -9,5 +9,4 @@ public class FirstSample {
 		// TODO Auto-generated method stub
 		System.out.println("We will not use \"Hello World\"");
 	}
-
 }
